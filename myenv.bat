@@ -1,0 +1,1 @@
+for /f "delims=" %%i in ('python load_env.py') do set OPENAI_API_KEY=%%i

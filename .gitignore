@@ -1,0 +1,5 @@
+.env
+**/__pycache__
+**/azure_openai_usage.log
+**/openai_usage.log.*
+**/assertion.log
