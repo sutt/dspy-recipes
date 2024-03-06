@@ -14,6 +14,7 @@ add openai key to env var:
  - infer.py - dspy signatures, inference object, command line
  - server.py - basic flask server
  - client.py - basic flask client for infer/ endpoint
+ - opt.py - export a compiled rag to a file (to be loaded by infer.py)
 #### commands:
 1. Run the server and client:
 

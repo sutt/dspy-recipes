@@ -1,0 +1,122 @@
+[
+  {
+    "question": "At My Window was released by which American singer-songwriter?",
+    "answer": "John Townes Van Zandt",
+    "dspy_uuid": "699d2dd7-5c4e-46c8-9c9e-f7b9afc6d3f8",
+    "dspy_split": "train"
+  },
+  {
+    "question": "which  American actor was Candace Kita  guest starred with ",
+    "answer": "Bill Murray",
+    "dspy_uuid": "671a84d5-1239-4348-a6d9-35c675497e3b",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Which of these publications was most recently published, Who Put the Bomp or Self?",
+    "answer": "Self",
+    "dspy_uuid": "8038ad46-a2e5-4ad5-be8c-0b7a69b87f58",
+    "dspy_split": "train"
+  },
+  {
+    "question": "The Victorians - Their Story In Pictures is a documentary series written by an author born in what year?",
+    "answer": "1950",
+    "dspy_uuid": "a6c8cddf-584d-47d6-aa42-11ccde62624e",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Which magazine has published articles by Scott Shaw, Tae Kwon Do Times or Southwest Art?",
+    "answer": "Tae Kwon Do Times",
+    "dspy_uuid": "002a2df7-da59-4d64-b296-c93ae1c32f6f",
+    "dspy_split": "train"
+  },
+  {
+    "question": "In what year was the club founded that played Manchester City in the 1972 FA Charity Shield",
+    "answer": "1874",
+    "dspy_uuid": "03e321d6-80b2-466d-92c7-4a3801b08cc3",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Which is taller, the Empire State Building or the Bank of America Tower?",
+    "answer": "The Empire State Building",
+    "dspy_uuid": "0c5f6276-88a2-4f17-96ba-82e66dd16807",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Which American actress who made their film debut in the 1995 teen drama \"Kids\" was the co-founder of Voto Latino?",
+    "answer": "Rosario Dawson",
+    "dspy_uuid": "31b86690-0faa-4e6b-a887-60b1e2815730",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Tombstone stared an actor born May 17, 1955 known as who?",
+    "answer": "Bill Paxton",
+    "dspy_uuid": "87ce706d-9825-418e-b260-8e111946a9cb",
+    "dspy_split": "train"
+  },
+  {
+    "question": "What is the code name for the German offensive that started this Second World War engagement on the Eastern Front (a few hundred kilometers from Moscow) between Soviet and German forces, which included 102nd Infantry Division?",
+    "answer": "Operation Citadel",
+    "dspy_uuid": "b43d7bc5-d9ab-431b-a3c5-ebbe5c4da7ec",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Who acted in the shot film The Shore and is also the youngest actress ever to play Ophelia in a Royal Shakespeare Company production of \"Hamlet.\" ?",
+    "answer": "Kerry Condon",
+    "dspy_uuid": "a69de505-784c-47b7-9d53-aa2153aa67d7",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Which company distributed this 1977 American animated film produced by Walt Disney Productions for which Sherman Brothers wrote songs?",
+    "answer": "Buena Vista Distribution",
+    "dspy_uuid": "4cba46ea-b802-4899-ab18-05057213cfb0",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Samantha Cristoforetti and Mark Shuttleworth are both best known for being first in their field to go where? ",
+    "answer": "space",
+    "dspy_uuid": "96648662-0f33-4c05-bf06-5467e156c070",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Having the combination of excellent foot speed and bat speed helped Eric Davis, create what kind of outfield for the Los Angeles Dodgers? ",
+    "answer": "\"Outfield of Dreams\"",
+    "dspy_uuid": "ffa47cf1-401c-452c-ab48-cd82276a03f8",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Which Pakistani cricket umpire who won 3 consecutive ICC umpire of the year awards in 2009, 2010, and 2011 will be in the ICC World Twenty20?",
+    "answer": "Aleem Sarwar Dar",
+    "dspy_uuid": "09804ad3-5951-4a4e-b3b9-60ef67a077da",
+    "dspy_split": "train"
+  },
+  {
+    "question": "The Organisation that allows a community to influence their operation or use and to enjoy the benefits arisingwas founded in what year?",
+    "answer": "2010",
+    "dspy_uuid": "cab94093-3bfd-4734-bc8e-9e836cbf827a",
+    "dspy_split": "train"
+  },
+  {
+    "question": "\"Everything Has Changed\" is a song from an album released under which record label ?",
+    "answer": "Big Machine Records",
+    "dspy_uuid": "fed111fa-9d78-4649-b210-946db3df81c6",
+    "dspy_split": "train"
+  },
+  {
+    "question": "Who is older, Aleksandr Danilovich Aleksandrov or Anatoly Fomenko?",
+    "answer": "Aleksandr Danilovich Aleksandrov",
+    "dspy_uuid": "3816b0b6-c54f-4d53-b18d-57a9f31fca53",
+    "dspy_split": "train"
+  },
+  {
+    "question": "On the coast of what ocean is the birthplace of Diogal Sakho?",
+    "answer": "Atlantic",
+    "dspy_uuid": "f8dd74af-bffa-4490-a3a0-b1ea0f29c85f",
+    "dspy_split": "train"
+  },
+  {
+    "question": "This American guitarist best known for her work with the Iron Maidens is an ancestor of a composer who was known as what?",
+    "answer": "The Waltz King",
+    "dspy_uuid": "c821b372-769c-4845-b9d6-cfe8f0b8f705",
+    "dspy_split": "train"
+  }
+]

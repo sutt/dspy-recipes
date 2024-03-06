@@ -59,6 +59,10 @@ class InferObj:
         elif sig_type == 'BasicRAG':
             generate_answer = BasicRAG()
             pred = generate_answer(question=question)
+        elif sig_type == 'CompiledRAG':
+            rag = BasicRAG()
+            rag.load('data/export_1.json')
+            pred = rag(question=question)
         else:
             print(f"Signature type {sig_type} not recognized")
             pred = None
@@ -90,6 +94,7 @@ if __name__ == "__main__":
     parser.add_argument('-1', '--basicqa', action='store_true')
     parser.add_argument('-2', '--basiccot', action='store_true')
     parser.add_argument('-3', '--basicrag', action='store_true')
+    parser.add_argument('-4', '--compiledrag', action='store_true')
     args = parser.parse_args()
     args = vars(args)
 
@@ -100,6 +105,8 @@ if __name__ == "__main__":
         sig_type = 'BasicCOT'
     elif args.get('basicrag'):
         sig_type = 'BasicRAG'
+    elif args.get('compiledrag'):
+        sig_type = 'CompiledRAG'
     else:
         sig_type = 'BasicQA'
 

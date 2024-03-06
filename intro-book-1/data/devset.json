@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Are both Cangzhou and Qionghai in the Hebei province of China?",
+    "answer": "no",
+    "gold_titles": [
+      "Qionghai",
+      "Cangzhou"
+    ],
+    "dspy_uuid": "73181150-9dc4-45f1-8f2f-543e675de741",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Who conducts the draft in which Marc-Andre Fleury was drafted to the Vegas Golden Knights for the 2017-18 season?",
+    "answer": "National Hockey League",
+    "gold_titles": [
+      "2017 NHL Expansion Draft",
+      "2017\u201318 Pittsburgh Penguins season"
+    ],
+    "dspy_uuid": "dc01383b-20d2-48f6-91f7-8462a5c6e3e0",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "The Wings entered a new era, following the retirement of which Canadian retired professional ice hockey player and current general manager of the Tampa Bay Lightning of the National Hockey League (NHL)?",
+    "answer": "Steve Yzerman",
+    "gold_titles": [
+      "2006\u201307 Detroit Red Wings season",
+      "Steve Yzerman"
+    ],
+    "dspy_uuid": "836bb8ff-e2a1-4ac5-91b5-779d65d5979d",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What river is near the Crichton Collegiate Church?",
+    "answer": "the River Tyne",
+    "gold_titles": [
+      "Crichton Collegiate Church",
+      "Crichton Castle"
+    ],
+    "dspy_uuid": "942a9213-6261-4a94-a531-1a6071e1e26e",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "In the 10th Century A.D. Ealhswith had a son called \u00c6thelweard by which English king?",
+    "answer": "King Alfred the Great",
+    "gold_titles": [
+      "\u00c6thelweard (son of Alfred)",
+      "Ealhswith"
+    ],
+    "dspy_uuid": "fb1a76a2-a059-4348-8d90-279c20e8ffe0",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "The Newark Airport Exchange is at the northern edge of an airport that is operated by whom?",
+    "answer": "Port Authority of New York and New Jersey",
+    "gold_titles": [
+      "Newark Liberty International Airport",
+      "Newark Airport Interchange"
+    ],
+    "dspy_uuid": "b68d7748-307a-464a-9030-7be5c91671de",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Where did an event take place resulting in a win during a domestic double due to the action of a Peruvian footballer known for his goal scoring ability?",
+    "answer": "Bundesliga",
+    "gold_titles": [
+      "Claudio Pizarro",
+      "2005\u201306 FC Bayern Munich season"
+    ],
+    "dspy_uuid": "1bf07364-cbfb-427c-89d8-82147bd16ac3",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Are both Chico Municipal Airport and William R. Fairchild International Airport in California?",
+    "answer": "no",
+    "gold_titles": [
+      "William R. Fairchild International Airport",
+      "Chico Municipal Airport"
+    ],
+    "dspy_uuid": "23950ffd-8f52-4406-b898-5589e80c3562",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "In which Maine county is Fort Pownall located?",
+    "answer": "Waldo County, Maine",
+    "gold_titles": [
+      "Fort Pownall",
+      "Stockton Springs, Maine"
+    ],
+    "dspy_uuid": "e9f792ff-1c61-4733-8249-31eac899a7da",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Which 90s rock band has more recently reformed, Gene or The Afghan Whigs?",
+    "answer": "The Afghan Whigs",
+    "gold_titles": [
+      "Gene (band)",
+      "The Afghan Whigs"
+    ],
+    "dspy_uuid": "231079df-8441-42f9-b391-2bfbd11aefdd",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What year did the mountain known in Italian as \"Monte Vesuvio\", erupt?",
+    "answer": "79 AD",
+    "gold_titles": [
+      "Curse of the Faceless Man",
+      "Mount Vesuvius"
+    ],
+    "dspy_uuid": "1eb018b4-b4f8-4624-8ee9-88a50bf8c9d5",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Is the 72nd field brigade part of the oldest or newest established field army?",
+    "answer": "the oldest",
+    "gold_titles": [
+      "72nd Field Artillery Brigade (United States)",
+      "First United States Army"
+    ],
+    "dspy_uuid": "8a5b7008-2563-428b-92bd-4c43808e154e",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Was Stanislaw Kiszka paid for his services by the Royal Treasury?",
+    "answer": "not",
+    "gold_titles": [
+      "Hetmans of the Polish\u2013Lithuanian Commonwealth",
+      "Stanis\u0142aw Kiszka"
+    ],
+    "dspy_uuid": "b0be3ad1-11ed-4bb7-9e0e-55ca78b54e1b",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Which film director is younger, Del Lord or Wang Xiaoshuai?",
+    "answer": "Del Lord",
+    "gold_titles": [
+      "Del Lord",
+      "Wang Xiaoshuai"
+    ],
+    "dspy_uuid": "0cf294a7-0049-48eb-a3f8-0bd34dcb7e72",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Lord North Street has a resident in which former Conservative MP who received an 18-month prison sentence for perjury in 1999?",
+    "answer": "Jonathan William Patrick Aitken",
+    "gold_titles": [
+      "Lord North Street",
+      "Jonathan Aitken"
+    ],
+    "dspy_uuid": "f2ee8c94-c85c-4ae9-bd9c-6c256ceb6f9a",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What is the name of this region of Italy, referring to the medieval March of Ancona and nearby marches of Camerino and Fermo, where the comune Pollenza is located?",
+    "answer": "Marche",
+    "gold_titles": [
+      "Marche",
+      "Pollenza"
+    ],
+    "dspy_uuid": "e10d397d-8218-4573-bc30-f6ef049fefe9",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "William Hughes Miller was born in a city with how many inhabitants ?",
+    "answer": "7,402 at the 2010 census",
+    "gold_titles": [
+      "William Hughes Miller",
+      "Kosciusko, Mississippi"
+    ],
+    "dspy_uuid": "109a4354-786a-4508-a457-72cc448e03d6",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What do students do at the school of New York University where Meleko Mokgosi is an artist and assistant professor?",
+    "answer": "design their own interdisciplinary program",
+    "gold_titles": [
+      "Gallatin School of Individualized Study",
+      "Meleko Mokgosi"
+    ],
+    "dspy_uuid": "f5e49402-9053-4d29-badf-c16fc67aef41",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What is the nationality of the chef and restaurateur featured in Restaurant: Impossible?",
+    "answer": "English",
+    "gold_titles": [
+      "Restaurant: Impossible",
+      "Robert Irvine"
+    ],
+    "dspy_uuid": "0f79eb0e-6a0f-4357-9ca6-9ab671fa4f9d",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What American actor plays an East side drug lord who prefers peaceful solutions to business disputes when possible?",
+    "answer": "Robert F. Chew",
+    "gold_titles": [
+      "Robert F. Chew",
+      "Proposition Joe"
+    ],
+    "dspy_uuid": "70fdddb2-a393-45c6-aa45-88fa03f053db",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What city is 11 miles north of the birthplace of actor Toby Sawyer?",
+    "answer": "Manchester",
+    "gold_titles": [
+      "Wilmslow",
+      "Toby Sawyer"
+    ],
+    "dspy_uuid": "07b54b12-270d-4e8a-917e-c27f20520fbd",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Who was born first, Tony Kaye or Deepa Mehta?",
+    "answer": "Deepa Mehta",
+    "gold_titles": [
+      "Deepa Mehta",
+      "Tony Kaye (director)"
+    ],
+    "dspy_uuid": "d9de29a1-edc7-48ab-a25b-a69ac40c8ec6",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What is the English translation of the name of the store that Macy's replaced in Boise Town Square?",
+    "answer": "the good market",
+    "gold_titles": [
+      "Boise Towne Square",
+      "The Bon March\u00e9"
+    ],
+    "dspy_uuid": "3ae3dad9-fad3-4a37-b729-0820538bdb0e",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Who did Lizzette Reynolds fire to make her notable in November 2007?",
+    "answer": "Christine Comer",
+    "gold_titles": [
+      "Lizzette Reynolds",
+      "Christine Comer"
+    ],
+    "dspy_uuid": "01c52f33-0f03-42b3-b383-58bd61f19ef2",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What was the name of the man, who was billed by the coiner of the phrase \"There's a sucker born every minute\" as \"Boy Lightning Calculator\"?",
+    "answer": "William Street Hutchings",
+    "gold_titles": [
+      "William S. Hutchings",
+      "P. T. Barnum"
+    ],
+    "dspy_uuid": "dc7bcde6-b344-46a6-afcd-8025b7a5948d",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Which battle was fought for a shorter period of time, the Battle of the Ch'ongch'on River, or the Meuse-Argonne Offensive?",
+    "answer": "Battle of the Ch'ongch'on River",
+    "gold_titles": [
+      "Battle of the Ch'ongch'on River",
+      "Meuse-Argonne Offensive"
+    ],
+    "dspy_uuid": "3f774c8b-8473-4c95-839d-f1ff2a2ed719",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What cricketeer active 1974\u20131993 had a strong performance in the tour by the Australian cricket team in England in 1981?",
+    "answer": "Ian Botham",
+    "gold_titles": [
+      "Australian cricket team in England in 1981",
+      "Ian Botham"
+    ],
+    "dspy_uuid": "40f4840c-871a-4dae-be85-9ee0da28c014",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What is the present post of the head coach of the 1982 NC State Wolfpack football team ?",
+    "answer": "defensive assistant at Florida Atlantic",
+    "gold_titles": [
+      "1982 NC State Wolfpack football team",
+      "Monte Kiffin"
+    ],
+    "dspy_uuid": "ec186872-654b-4a6b-aa7b-095b45c52023",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Which Scottish actor sang \"Come What May\"?",
+    "answer": "Ewan McGregor",
+    "gold_titles": [
+      "Ewan McGregor",
+      "Come What May (2001 song)"
+    ],
+    "dspy_uuid": "27ba817c-8255-4aa5-9393-d826797b3aef",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Where have Ivan Bella and Frank De Winne both traveled?",
+    "answer": "space",
+    "gold_titles": [
+      "Frank De Winne",
+      "Ivan Bella"
+    ],
+    "dspy_uuid": "c17ae26a-bf88-48b6-9cea-93fa7ef4afdc",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "The original work by Anton Chekhov involving a disillusioned schoolmaster, which inspired a later play by this British playwright, was written specifically for whom?",
+    "answer": "Maria Yermolova",
+    "gold_titles": [
+      "Wild Honey (play)",
+      "Platonov (play)"
+    ],
+    "dspy_uuid": "89e3852b-485c-481d-8c48-ef12cfbb75d9",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Are Roswell International Air Center and Pago Pago International Airport both located in the mainland US?",
+    "answer": "no",
+    "gold_titles": [
+      "Roswell International Air Center",
+      "Pago Pago International Airport"
+    ],
+    "dspy_uuid": "35214b7a-21ba-4220-91c1-517ffe2ffb2d",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Untold: The Greatest Sports Stories Never Told was hosted by a sportscaster commonly referred to as what ?",
+    "answer": "the voice of basketball",
+    "gold_titles": [
+      "Untold: The Greatest Sports Stories Never Told",
+      "Marv Albert"
+    ],
+    "dspy_uuid": "918b278c-f6d0-4084-adf2-82baa4627209",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Are Walt Disney and Sacro GRA both documentry films?",
+    "answer": "yes",
+    "gold_titles": [
+      "Sacro GRA",
+      "Walt Disney (film)"
+    ],
+    "dspy_uuid": "6a292305-692b-4108-95ae-4cd703c48003",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What is the Palestinian Islamic organization that governs th small territory on the eastern coast of the Mediterranean Sea that was captured by Israel during the 1967 Six-Day War?",
+    "answer": "Hamas",
+    "gold_titles": [
+      "Status of territories occupied by Israel in 1967",
+      "Gaza Strip"
+    ],
+    "dspy_uuid": "af7c3d03-4e8c-48bf-96cc-391729ff5da9",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What album did the song of which Taylor Swift premiered the music video of during the pre-show of the 2015 MTV Video Music Awards come from?",
+    "answer": "1989",
+    "gold_titles": [
+      "Wildest Dreams (Taylor Swift song)",
+      "2015 MTV Video Music Awards"
+    ],
+    "dspy_uuid": "bf2e6f9c-0ff9-4561-8512-387c7715f265",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Which is considered a genus level classification, Apera or Gunnera manicata?",
+    "answer": "Apera",
+    "gold_titles": [
+      "Gunnera manicata",
+      "Apera"
+    ],
+    "dspy_uuid": "3fc949e4-17ef-4612-9bae-b46928bd46b3",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Do The Drums and Pussy Galore play music of similar genres?",
+    "answer": "no",
+    "gold_titles": [
+      "Pussy Galore (band)",
+      "The Drums"
+    ],
+    "dspy_uuid": "d2a1a3da-b465-44f2-836d-6393430d76fa",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "What is the post-nominal abbreviation for the university where the Banded Mongoose Research Project is based?",
+    "answer": "Exon",
+    "gold_titles": [
+      "University of Exeter",
+      "Banded Brothers"
+    ],
+    "dspy_uuid": "10e262c7-f6f5-4ae5-b813-fa4fc017a372",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Are both Benjamin Christensen and Len Wiseman directors?",
+    "answer": "yes",
+    "gold_titles": [
+      "Benjamin Christensen",
+      "Len Wiseman"
+    ],
+    "dspy_uuid": "60017c39-b140-4cb7-a511-e4d1957cf76f",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Steven Cuitlahuac Melendez and Disney are connected by what American animator?",
+    "answer": "Bill Melendez",
+    "gold_titles": [
+      "Bill Melendez",
+      "Steven C. Melendez"
+    ],
+    "dspy_uuid": "9421e1d9-d0e7-4682-82ed-813ab4313a1a",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Shark Creek is located on this river which is in the northern rivers district?",
+    "answer": "Clarence River",
+    "gold_titles": [
+      "Shark Creek, New South Wales",
+      "Clarence River (New South Wales)"
+    ],
+    "dspy_uuid": "4704a750-97de-4c84-b6dd-2592d11da02e",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Who was the producer of the 2016 animated film about an amnesiac fish?",
+    "answer": "Pixar",
+    "gold_titles": [
+      "Hayden Rolence",
+      "Finding Dory"
+    ],
+    "dspy_uuid": "8a208432-f33c-435f-b583-26c64c087459",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Who purchased the team Michael Schumacher raced for in the 1995 Monaco Grand Prix in 2000?",
+    "answer": "Renault",
+    "gold_titles": [
+      "Benetton Formula",
+      "1995 Monaco Grand Prix"
+    ],
+    "dspy_uuid": "c37f686f-569c-4dd6-a773-bbf8eec12455",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Fredrick Law Olmsted was an American landscape architect, journalist, social critic and public administrator that designed what neighborhood in Trenton, New Jersey?",
+    "answer": "Cadwalader Heights",
+    "gold_titles": [
+      "Cadwalader Heights, Trenton, New Jersey",
+      "Frederick Law Olmsted"
+    ],
+    "dspy_uuid": "cd954300-8c8b-4f8a-b63b-f45fad73e462",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Gordon Warnecke worked alongside the former senator for which political party on Young Toscanini?",
+    "answer": "\"Forza Italia\" party.",
+    "gold_titles": [
+      "Franco Zeffirelli",
+      "Gordon Warnecke"
+    ],
+    "dspy_uuid": "841f8428-899e-487e-ac7a-77967f100e69",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Andr\u00e9 Zucca was a French photographer who worked with a German propaganda magazine published by what Nazi organization?",
+    "answer": "the Wehrmacht",
+    "gold_titles": [
+      "Andr\u00e9 Zucca",
+      "Signal (magazine)"
+    ],
+    "dspy_uuid": "1084f619-5ad6-4a4c-a308-e562889d0623",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "Both Bill Ponsford and Bill Woodfull played what?",
+    "answer": "cricketer",
+    "gold_titles": [
+      "Bill Woodfull",
+      "Bill Ponsford"
+    ],
+    "dspy_uuid": "5408e763-aa74-4a71-bf27-9001049a4e21",
+    "dspy_split": "dev"
+  },
+  {
+    "question": " Suzana S. Drobnjakovi\u0107 Ponti acted in a film loosely based on a book by who?",
+    "answer": "Danny Wallace",
+    "gold_titles": [
+      "Sasha Alexander",
+      "Yes Man (film)"
+    ],
+    "dspy_uuid": "0da67a0e-5c03-48ef-b1c5-131a8f7f4d42",
+    "dspy_split": "dev"
+  },
+  {
+    "question": "In what city was the Election Law Journal founded?",
+    "answer": "Portland",
+    "gold_titles": [
+      "Reed College",
+      "Election Law Journal"
+    ],
+    "dspy_uuid": "f716eab7-20fc-43aa-a2c8-15f77889b1f5",
+    "dspy_split": "dev"
+  }
+]
